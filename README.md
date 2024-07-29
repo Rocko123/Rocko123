@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rocky
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning stuff
+- 🌱 I’m currently learning Git
 
 <!---
 Rocko123/Rocko123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
